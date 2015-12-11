@@ -1,0 +1,8 @@
+C:\Users\123\YandexDisk\x264_ui\x264\obj\Debug\x264.csprojResolveAssemblyReference.cache
+C:\Users\123\YandexDisk\x264_ui\x264\bin\Debug\x264_encoder.exe.config
+C:\Users\123\YandexDisk\x264_ui\x264\bin\Debug\x264_encoder.exe
+C:\Users\123\YandexDisk\x264_ui\x264\obj\Debug\x264_encoder.exe
+C:\Users\123\Documents\GitHub\x264-encoder\bin\Debug\x264_encoder.exe.config
+C:\Users\123\Documents\GitHub\x264-encoder\obj\Debug\x264_encoder.exe
+C:\Users\123\Documents\GitHub\x264-encoder\bin\Debug\x264_encoder.exe
+C:\Users\123\Documents\GitHub\x264-encoder\obj\Debug\x264.csprojResolveAssemblyReference.cache
